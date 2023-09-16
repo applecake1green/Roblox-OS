@@ -7,11 +7,11 @@
     "category": "Productivity",
     "icon": {
       "glyph_id": "",
-      "color": "blue",
+      "color": "blue"
     },
     "version": {
       "version": "1.0",
-      "version_info": "Initial submission",
+      "version_info": "Initial submission"
     }
   }
 }
